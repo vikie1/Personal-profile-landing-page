@@ -2,8 +2,8 @@
 <LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>52.0</apiVersion>
     <isExposed>true</isExposed>
-    <masterLabel>Landing Page</masterLabel>
-    <description>This displays some information about me</description>
+    <masterLabel>Map Page</masterLabel>
+    <description>This displays a list of important places.</description>
     <targets>
       <target>lightning__AppPage</target>
     </targets>
