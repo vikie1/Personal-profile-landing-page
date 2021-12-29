@@ -21,6 +21,6 @@ Below are the steps to recreate the templated in a scratch org.
 ## View the project
 1. On the quick search, look for `Lightning App Builder`.
 2. Create a new page by selecting app page and give it a name you prefer.
-3. On the left panel, you should see `Customer Info, Landing Page and Map Page`.
+3. On the left panel, you should see `Customer Info, Landing Page and Map Page` under Custom.
 4. Drag any of the 3 components to the lightning app builder page.
 5. On the App search, type the name of the page you created on step 2 and you should see the component you selected.
