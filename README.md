@@ -15,7 +15,7 @@ Below are the steps to recreate the templated in a scratch org.
 5. `$ sfdx force:org:open` -> Open the scratch org
 6. On the setup page of your scratch org, create a custom object called `CustomerInfo` and add fields `Name, Email and Phone`.
 7. On the quick search, look for permissions set and create a permission set. Assign read and write permissions to on the `CustomerInfo` object and all the fields you created on step 6.
-8. Run `$ sfdx force:user:permset:assign -n LWCAccess` -> Assign the permission to your scratch org.
+8. Run `$ sfdx force:user:permset:assign -n [insert permission set name from step 7]` -> Assign the permission to your scratch org.
 9. `$ sfdx force:source:push` -> deploy the project to the scratch org
 
 ## View the project
